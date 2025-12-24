@@ -1,0 +1,16 @@
+#virtual environments
+venv/
+ENV/
+.env/
+.venv/
+
+#python cache
+__pycache__/
+*.py[cod]
+
+#IDE/editor folders
+.vscode/
+.idea/
+
+# logs
+*.log
